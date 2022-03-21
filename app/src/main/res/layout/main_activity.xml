@@ -9,13 +9,12 @@
     android:orientation="vertical"
     android:layout_gravity="center_vertical">
 
-    <TextView
-        android:id="@+id/roll_dice_value"
+    <ImageView
+        android:id="@+id/dice_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
         android:layout_gravity="center_horizontal"
-        android:textSize="30sp"
+        android:src="@drawable/empty_dice"
         android:layout_marginBottom="32sp"/>
 
     <Button
