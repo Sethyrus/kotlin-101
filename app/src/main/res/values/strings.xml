@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin 101</string>
+    <string name="roll_dice_label">Tirar dado</string>
 </resources>
